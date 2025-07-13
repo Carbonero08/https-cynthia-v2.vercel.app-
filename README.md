@@ -1,5 +1,3 @@
-# https-cynthia-v2.vercel.app-
-index.html
 <!DOCTYPE html>
 <html lang="es">
 <head>
